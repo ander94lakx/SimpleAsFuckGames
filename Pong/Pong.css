@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	background-color: #000000;
+	/*font-family: 'Titillium Web', sans-serif;*/
+    font-family: 'Lato', sans-serif;
+}
+
+#wrapper {
+	align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#title {
+	font-size: 50px;
+	color: #FFFFFF;
+}
+
+#canvas {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#subtitle {
+	font-size: 12;
+	color: #FFFFFF;
+}
+
+p {
+	margin: 0;
+}
